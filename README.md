@@ -51,3 +51,6 @@ outln --debug src
 - Markdown: `.md`
 - Go: `.go`
 - Rust: `.rs`
+- Java: `.java`
+- Kotlin: `.kt`, `.kts`
+- C#: `.cs`
